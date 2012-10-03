@@ -1,0 +1,10 @@
+.bg-4, .letter {behavior: url(js/PIE.htc); position:relative;}
+#toTop, .menu ul {behavior: url(js/PIE.htc);}
+h3,
+h4,
+h5,
+h6,
+.title-1 {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=hIEfix.png,sizingMethod=crop);
+	behavior: url(js/PIE.htc); position:relative;
+}
